@@ -2,6 +2,8 @@
 
 # [Practical AutoLayout - Xcode 8](https://github.com/c4arl0s/PracticalAutoLayoutXcode#go-back-to-overview)
 
+This project pretends to store all basic and advance concepts of AutoLayout. Designing a well thought user interface, AutoLayout is able to show a suitable user interface for all devices. The Xcode version originally used was 10+, but actually all xcodeproj files are also tested on Xcode 12+. At first glance you can see GIF files to show what is the final product. This knowledge base is one of my favorites because allow me to speed up the basic design of a suitable user interface.
+
 1. [x] [1. Introduction](https://github.com/c4arl0s/PracticalAutoLayoutXcodeIndex#1-introduction) 
 2. [x] [2. Auto Layout Basic Concepts](https://github.com/c4arl0s/PracticalAutoLayoutXcodeIndex#2-autolayout-basic-concepts)
 3. [x] [3. Beginning Auto Layout](https://github.com/c4arl0s/PracticalAutoLayoutXcodeIndex#3-beginning-auto-layout)
