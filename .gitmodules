@@ -1,0 +1,36 @@
+[submodule "PracticalAutoLayoutXcode"]
+	path = PracticalAutoLayoutXcode
+	url = git@github.com:c4arl0s/PracticalAutoLayoutXcode.git
+[submodule "2AutoLayoutBasicConcepts"]
+	path = 2AutoLayoutBasicConcepts
+	url = git@github.com:c4arl0s/2AutoLayoutBasicConcepts.git
+[submodule "3BeginningAutoLayout"]
+	path = 3BeginningAutoLayout
+	url = git@github.com:c4arl0s/3BeginningAutoLayout.git
+[submodule "4SizeClasses"]
+	path = 4SizeClasses
+	url = git@github.com:c4arl0s/4SizeClasses.git
+[submodule "5CompactWidthSizeClass"]
+	path = 5CompactWidthSizeClass
+	url = git@github.com:c4arl0s/5CompactWidthSizeClass.git
+[submodule "6ProportionalSizesAndTheMultiplier"]
+	path = 6ProportionalSizesAndTheMultiplier
+	url = git@github.com:c4arl0s/6ProportionalSizesAndTheMultiplier.git
+[submodule "7RegularSizesClasses"]
+	path = 7RegularSizesClasses
+	url = git@github.com:c4arl0s/7RegularSizesClasses.git
+[submodule "8ConflictingConstraints"]
+	path = 8ConflictingConstraints
+	url = git@github.com:c4arl0s/8ConflictingConstraints.git
+[submodule "9MultitaskingSizeClasses"]
+	path = 9MultitaskingSizeClasses
+	url = git@github.com:c4arl0s/9MultitaskingSizeClasses.git
+[submodule "10StackViews"]
+	path = 10StackViews
+	url = git@github.com:c4arl0s/10StackViews.git
+[submodule "11Images"]
+	path = 11Images
+	url = git@github.com:c4arl0s/11Images.git
+[submodule "12AdvancedConstraints"]
+	path = 12AdvancedConstraints
+	url = git@github.com:c4arl0s/12AdvancedConstraints.git
