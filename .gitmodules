@@ -34,3 +34,6 @@
 [submodule "12AdvancedConstraints"]
 	path = 12AdvancedConstraints
 	url = git@github.com:c4arl0s/12AdvancedConstraints.git
+[submodule "PracticalAutoLayoutXcodeIndex"]
+	path = PracticalAutoLayoutXcodeIndex
+	url = git@github.com:c4arl0s/PracticalAutoLayoutXcodeIndex.git
